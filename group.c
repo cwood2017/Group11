@@ -34,6 +34,7 @@ void codyW()
     pritnf("I am a sophmore");
     printf("Computer Science");
     printf("I like to play soccer and play video games");
+    printf("I grew up in Libby Montana");
 }
 
 int main()
