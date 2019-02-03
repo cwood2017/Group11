@@ -50,5 +50,14 @@ void codyW()
 
 int main()
 {
+  printf("This is Group 11.\n");
+  printf("Consists of Levi T, Cody V, London W, Evan W, and Cody W.\n");
+
+  leviT();
+  codyV();
+  londonW();
+  evanW();
+  codyW();
+    
   return 0;
 }
