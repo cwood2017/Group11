@@ -30,6 +30,7 @@ void evanW()
 
 void codyW()
 {
+    printf("Cody Wood");
 }
 
 int main()
