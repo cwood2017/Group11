@@ -33,6 +33,7 @@ void codyW()
     printf("Cody Wood");
     pritnf("I am a sophmore");
     printf("Computer Science");
+    printf("I like to play soccer and play video games");
 }
 
 int main()
