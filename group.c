@@ -32,6 +32,7 @@ void codyW()
 {
     printf("Cody Wood");
     pritnf("I am a sophmore");
+    printf("Computer Science");
 }
 
 int main()
