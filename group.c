@@ -13,6 +13,8 @@ void londonW()
     printf("London Walsh");
     printf("Junior / Sophomore");
     printf("CS");
+    printf("Programming, and hiking are my hobbies");
+    
 }
 
 void evanW()
