@@ -11,7 +11,9 @@ void codyV()
 void londonW()
 {
     printf("London Walsh");
-    printf("Junior / Sophomore");}
+    printf("Junior / Sophomore");
+    printf("CS");
+}
 
 void evanW()
 {
