@@ -19,6 +19,7 @@ void evanW()
     printf("My major is economics\n");
     printf("I like to snowmachine and play baseball\n");
     printf("I'm from Fairbanks, Alaska\n");
+    printf("Some oranges are green colored\n");
 }
 
 void codyW()
